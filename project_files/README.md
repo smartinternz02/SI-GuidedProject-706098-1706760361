@@ -68,15 +68,3 @@ Classification of  automation testing tools
 Difference between Manual and Automation testing
 
 Advantages and need of automation testing tools
-
-Project  Structure:
-
-
-Create the Project folder which contains files as shown below:
-
-
-![testcase](https://github.com/smartinternz02/SI-GuidedProject-704811-1706009731/assets/140964836/3ad45720-3772-468a-9051-8c1d26fb1ddf)
-
-
-
-![testcase2](https://github.com/smartinternz02/SI-GuidedProject-704811-1706009731/assets/140964836/4e9c3cbe-6262-44d9-8a1c-5adc3827588f)
