@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Whirlpool 7.0 Kg 5 Star Ace Supreme Se_b6480b</name>
+   <tag></tag>
+   <elementGuidId>4dd23383-fe09-4dd3-bd7f-dc61f8203244</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-medium.a-color-base.a-text-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>95332f98-7404-4fb3-bebd-00042709abdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-medium a-color-base a-text-normal</value>
+      <webElementGuid>b1496078-28a8-49ac-b1f2-9128c9094db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Whirlpool 7.0 Kg 5 Star Ace Supreme Semi-Automatic Top Loading Washing Machine  (ACE SUPREME RYL SRS 7.0 GREY DAZZLE (5YR)</value>
+      <webElementGuid>f6870ed7-c86f-491a-b7b8-d92ed7789c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-result-item s-asin sg-col-0-of-12 sg-col-16-of-20 AdHolder sg-col s-widget-spacing-small sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_1&quot;]/div[@class=&quot;rush-component&quot;]/div[@class=&quot;rush-component s-featured-result-item&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-v1x9xtdrqwkf2b2sy3gv3bhvhpn s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;puisg-row&quot;]/div[@class=&quot;puisg-col puisg-col-4-of-12 puisg-col-8-of-16 puisg-col-12-of-20 puisg-col-12-of-24 puis-list-col-right&quot;]/div[@class=&quot;puisg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/div[@class=&quot;a-section a-spacing-none puis-padding-right-small s-title-instructions-style&quot;]/h2[@class=&quot;a-size-mini a-spacing-none a-color-base s-line-clamp-2&quot;]/a[@class=&quot;a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal&quot;]/span[@class=&quot;a-size-medium a-color-base a-text-normal&quot;]</value>
+      <webElementGuid>23fce214-9e1e-47d3-b6ad-aad17f232ec5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+      <webElementGuid>134b0634-2f27-4620-9f10-997fe0ebeb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a/span</value>
+      <webElementGuid>9033f043-ced7-4216-89bd-b64b90d4be91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Whirlpool 7.0 Kg 5 Star Ace Supreme Semi-Automatic Top Loading Washing Machine  (ACE SUPREME RYL SRS 7.0 GREY DAZZLE (5YR)' or . = 'Whirlpool 7.0 Kg 5 Star Ace Supreme Semi-Automatic Top Loading Washing Machine  (ACE SUPREME RYL SRS 7.0 GREY DAZZLE (5YR)')]</value>
+      <webElementGuid>a541aaca-9536-43bd-beba-2d58f025d303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

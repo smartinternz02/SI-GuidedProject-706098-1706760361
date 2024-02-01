@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>db9033b7-422b-4849-9292-0aa89ad37f03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sc-active-471e10d9-4cd1-4c78-bebc-a14876f5471d > div.sc-list-item-content > div.a-row.a-grid-vertical-align.a-grid-top.sc-list-item-content-inner > div.sc-item-content-group > div.a-row.sc-action-links > span.sc-action-quantity > span.sc-invisible-when-no-js > span > span.a-dropdown-container > span.a-button.a-button-dropdown.quantity > span.a-button-inner > span.a-button-text.a-declarative > span.a-dropdown-prompt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sc-active-471e10d9-4cd1-4c78-bebc-a14876f5471d']/div[4]/div/div[3]/div/span/span/span/span/span/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d19250bb-5b0b-4c59-a4f3-f4dfb3997e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dropdown-prompt</value>
+      <webElementGuid>67c92fd8-bc49-40a7-958b-2f2e3f77f67e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>40782b21-1fbe-42b4-a840-f2129f4dd481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sc-active-471e10d9-4cd1-4c78-bebc-a14876f5471d&quot;)/div[@class=&quot;sc-list-item-content&quot;]/div[@class=&quot;a-row a-grid-vertical-align a-grid-top sc-list-item-content-inner&quot;]/div[@class=&quot;sc-item-content-group&quot;]/div[@class=&quot;a-row sc-action-links&quot;]/span[@class=&quot;sc-action-quantity&quot;]/span[@class=&quot;sc-invisible-when-no-js&quot;]/span[1]/span[@class=&quot;a-dropdown-container&quot;]/span[@class=&quot;a-button a-button-dropdown quantity&quot;]/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]/span[@class=&quot;a-dropdown-prompt&quot;]</value>
+      <webElementGuid>b4591498-a81c-4964-b76f-42be5766ccab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sc-active-471e10d9-4cd1-4c78-bebc-a14876f5471d']/div[4]/div/div[3]/div/span/span/span/span/span/span/span/span[2]</value>
+      <webElementGuid>504709b2-c944-406e-a84e-5b7d5366cf62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div/div[3]/div/span/span/span/span/span/span/span/span[2]</value>
+      <webElementGuid>fa087377-73b1-4932-ad19-0a4c387d2f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>eec22fa4-6a22-4eca-8ced-4e489054319d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

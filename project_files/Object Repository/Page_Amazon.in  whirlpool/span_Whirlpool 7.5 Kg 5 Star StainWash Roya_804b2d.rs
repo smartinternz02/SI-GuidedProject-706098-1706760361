@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Whirlpool 7.5 Kg 5 Star StainWash Roya_804b2d</name>
+   <tag></tag>
+   <elementGuidId>a1cdcac4-91d4-40bc-912c-a34a75e52c1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-medium.a-color-base.a-text-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a92541b-e129-4ed0-85cb-1d15d6eebe56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-medium a-color-base a-text-normal</value>
+      <webElementGuid>04da8eda-3abf-43cc-a2bd-5d9f4422afdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Whirlpool 7.5 Kg 5 Star StainWash Royal Plus Fully Automatic Top Load Washing Machine (SW ROYAL PLUS 7.5 (H) GREY 10YMW with In-Built Heater)</value>
+      <webElementGuid>c02ca3d4-064e-4439-8516-bd40a0b5d414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-result-item s-asin sg-col-0-of-12 sg-col-16-of-20 AdHolder sg-col s-widget-spacing-small sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_1&quot;]/div[@class=&quot;rush-component&quot;]/div[@class=&quot;rush-component s-featured-result-item&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-v1x9xtdrqwkf2b2sy3gv3bhvhpn s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;puisg-row&quot;]/div[@class=&quot;puisg-col puisg-col-4-of-12 puisg-col-8-of-16 puisg-col-12-of-20 puisg-col-12-of-24 puis-list-col-right&quot;]/div[@class=&quot;puisg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/div[@class=&quot;a-section a-spacing-none puis-padding-right-small s-title-instructions-style&quot;]/h2[@class=&quot;a-size-mini a-spacing-none a-color-base s-line-clamp-2&quot;]/a[@class=&quot;a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal&quot;]/span[@class=&quot;a-size-medium a-color-base a-text-normal&quot;]</value>
+      <webElementGuid>4b934d0a-e7a2-4416-ab23-7adb581d4e74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+      <webElementGuid>485a4e20-ea6c-4952-9548-b3325d752f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a/span</value>
+      <webElementGuid>270903c3-cc52-48cc-837a-2e8f6efaec4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Whirlpool 7.5 Kg 5 Star StainWash Royal Plus Fully Automatic Top Load Washing Machine (SW ROYAL PLUS 7.5 (H) GREY 10YMW with In-Built Heater)' or . = 'Whirlpool 7.5 Kg 5 Star StainWash Royal Plus Fully Automatic Top Load Washing Machine (SW ROYAL PLUS 7.5 (H) GREY 10YMW with In-Built Heater)')]</value>
+      <webElementGuid>4310c8da-c6d6-4d3f-928c-2361ef5324b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

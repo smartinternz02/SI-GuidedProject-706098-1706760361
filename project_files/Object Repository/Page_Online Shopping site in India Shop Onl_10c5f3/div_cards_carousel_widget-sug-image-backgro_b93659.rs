@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_cards_carousel_widget-sug-image-backgro_b93659</name>
+   <tag></tag>
+   <elementGuidId>b1a4d3e7-bcde-4cfa-9cdb-2a6c48cd16bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div[2]/div[2]/div/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95ff7152-cd41-4829-9da5-076950e27d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cards_carousel_widget-sug-image-background cards_carousel_widget-sug-image-grey-shield</value>
+      <webElementGuid>5b5fced7-af5a-48a3-aca3-172d7d5d9b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-searchAjax&quot;)/div[@class=&quot;autocomplete-results-container&quot;]/div[@class=&quot;two-pane-results-container&quot;]/div[@class=&quot;left-pane-results-container&quot;]/div[1]/div[@class=&quot;cards_carousel_widget-suggestion&quot;]/div[@class=&quot;cards_carousel_widget-sug-container-top&quot;]/div[@class=&quot;cards_carousel_widget-sug-column&quot;]/div[@class=&quot;cards_carousel_widget-sug-card&quot;]/a[@class=&quot;cards_carousel_widget-sug-link&quot;]/div[@class=&quot;cards_carousel_widget-sug-image-container&quot;]/div[@class=&quot;cards_carousel_widget-sug-image-background cards_carousel_widget-sug-image-grey-shield&quot;]</value>
+      <webElementGuid>3ee19b55-7291-4e22-b4a8-5c380c880b2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div[2]/div[2]/div/a/div/div</value>
+      <webElementGuid>03c48a1e-d347-4a1b-a12e-fced516ba9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div/div</value>
+      <webElementGuid>bd0646d1-639d-4caa-9f6d-9bce2c87a1d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

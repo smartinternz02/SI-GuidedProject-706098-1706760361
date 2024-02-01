@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No Thanks</name>
+   <tag></tag>
+   <elementGuidId>87a78dbb-0517-4609-82de-b2b20bfa5385</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prime-interstitial-nothanks-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='prime-interstitial-nothanks-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e935d789-49fc-451c-89e7-fc5bb1b21109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prime-interstitial-nothanks-button</value>
+      <webElementGuid>89c21cdc-41c5-4fd2-90bd-fa81b58bc258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prime-action-button primeEvent a-button-text prime-aui-signup-text</value>
+      <webElementGuid>3b87975a-4cf4-4244-a8b1-cb00717f1c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+No Thanks                                     </value>
+      <webElementGuid>f0fd8dd3-56dc-4dfc-a899-1b3d3201c142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prime-interstitial-nothanks-button&quot;)</value>
+      <webElementGuid>148710c7-5cdc-4cc2-9db0-dcb8849cc524</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='prime-interstitial-nothanks-button']</value>
+      <webElementGuid>141cc710-93fd-4973-9cf7-370f28427357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='primeAutomaticPopoverAdContent']/div/div/div/span/span/span/span</value>
+      <webElementGuid>2c767b32-cf1e-477a-9d74-343a283a29c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/span/span/span/span</value>
+      <webElementGuid>62ba4d99-f365-4095-ac2b-c6d37cd40dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'prime-interstitial-nothanks-button' and (text() = '
+No Thanks                                     ' or . = '
+No Thanks                                     ')]</value>
+      <webElementGuid>6d6ac675-0224-4edb-b380-9299c6fd24d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
